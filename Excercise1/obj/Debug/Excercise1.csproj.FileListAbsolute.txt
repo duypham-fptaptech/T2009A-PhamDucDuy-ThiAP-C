@@ -1,0 +1,6 @@
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise1\bin\Debug\T2009A_Pham_Duc_DUy_ThiAP_C.exe
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise1\bin\Debug\T2009A_Pham_Duc_DUy_ThiAP_C.pdb
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise1\obj\Debug\Excercise1.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise1\obj\Debug\Excercise1.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise1\obj\Debug\T2009A_Pham_Duc_DUy_ThiAP_C.exe
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise1\obj\Debug\T2009A_Pham_Duc_DUy_ThiAP_C.pdb

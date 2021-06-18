@@ -1,0 +1,6 @@
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise2\bin\Debug\Excercise2.exe
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise2\bin\Debug\Excercise2.pdb
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise2\obj\Debug\Excercise2.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise2\obj\Debug\Excercise2.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise2\obj\Debug\Excercise2.exe
+C:\Users\hp\RiderProjects\T2009A-Pham_Duc_DUy-ThiAP_C\Excercise2\obj\Debug\Excercise2.pdb
